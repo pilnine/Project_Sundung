@@ -351,6 +351,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </Content>
     <Content Include="Service References\Application Insights\ConnectedService.json" />
+    <Content Include="Views\Home\_AccountDetailPartial.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
